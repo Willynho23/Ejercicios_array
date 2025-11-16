@@ -23,7 +23,13 @@ public class Ej13 {
 		
 		System.out.println(l);
 		
+		
+		
 	}
+		List<Integer>lel=new ArrayList<Integer>();
+		lel.add(1);
+		lel.add(1);
+		System.out.println(lel);
 	}
 	
 }

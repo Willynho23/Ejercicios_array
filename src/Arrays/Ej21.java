@@ -35,7 +35,7 @@ public class Ej21 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		float[] prueba = {-1f,4f,-5f,5f,10f,80f};
+		float[] prueba = {-1f,4f,6f,3f,3.000001f};
 		int resultado = Ej21.desviados(prueba);
 		System.out.println(resultado);
 	}
